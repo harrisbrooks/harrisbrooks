@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harrisbrooks
-- 👀 I’m interested in: Architecture + Brand Development. 
+- 👀 I’m interested in: Architecture, Research, and Design Innovation. 
 - 🌱 I’m currently learning: Front End Web Development.
 - 💞️ I’m looking to collaborate on: Front End Web Development.
 - 📫 How to reach me hello@harrisbrooks.co
